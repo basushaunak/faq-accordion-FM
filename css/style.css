@@ -75,8 +75,7 @@ h2{
 	margin-inline: auto;
 	border-radius: 30px;
 	background-color: var(--white);
-	padding-block-end: 2rem;
-	
+	padding-block-end: 2rem;	
 }
 
 .wrapper > *{
