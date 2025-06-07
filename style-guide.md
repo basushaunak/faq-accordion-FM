@@ -14,7 +14,9 @@ The designs were created to the following widths:
 - White: hsl(0, 100%, 100%)
 - Purple 100: hsl(275, 100%, 97%)
 - Purple 600: hsl(292, 16%, 49%)
+- Purple 750: hsl(278, 56%, 50%)
 - Purple 950: hsl(292, 42%, 14%)
+
 
 ## Typography
 
